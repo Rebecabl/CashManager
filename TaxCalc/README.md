@@ -1,5 +1,5 @@
 
-O CashManager é um programa simples em Java para calcular impostos sobre uma receita bruta informada pelo usuário. Ele calcula os seguintes tributos:
+O TaxCal é um programa simples em Java para calcular impostos sobre uma receita bruta informada pelo usuário. Ele calcula os seguintes tributos:
 
 ISS (Imposto sobre Serviços)
 ICMS (Imposto sobre Circulação de Mercadorias e Serviços)
